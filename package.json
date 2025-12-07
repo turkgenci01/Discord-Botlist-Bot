@@ -1,0 +1,23 @@
+{
+  "name": "discord-botlist-system",
+  "version": "1.0.0",
+  "description": "Gelişmiş Discord BotList sistemi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "botlist"
+  ],
+  "author": "BotList System",
+  "license": "MIT"
+}
